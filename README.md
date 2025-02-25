@@ -6,7 +6,9 @@
   <h2>Tecnologias Utilizadas</h2>
   <br>
   -HTML
+  <br>
   -CSS
+  <br>
   -JavaScript
   <br>
 <img src="https://github.com/hhudsonoliveira/Mario/blob/main/Captura%20de%20tela%20Mario%20Brothers.png?raw=true" />
